@@ -8,7 +8,7 @@ exports.livenet = {
   name: 'livenet',
   magic: hex('f6a8a4f2'),
   addressVersion: 0x1c,
-  privKeyVersion: 128,
+  privKeyVersion: 224,
   P2SHVersion: 5,
   hkeyPublicVersion: 0x0488b21e,
   hkeyPrivateVersion: 0x0488ade4,
